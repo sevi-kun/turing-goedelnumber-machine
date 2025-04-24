@@ -27,8 +27,8 @@ This simulator can emulate any Turing Machine by processing a binary encoding of
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/turing-machine.git
-   cd turing-machine
+   git clone https://github.com/sevi-kun/turing-goedelnumber-machine.git
+   cd turing-goedelnumber-machine
    ```
 
 2. Install dependencies:
@@ -43,8 +43,10 @@ This simulator can emulate any Turing Machine by processing a binary encoding of
 
 4. Run the application:
    ```bash
-   ./turingmachine
+   ./turing-goedelnumber-machine
    ```
+
+5. Read the Makefile for build instructions.
 
 ## Usage
 
